@@ -1,2 +1,2 @@
-# EA801-Laboratorio-Projetos-Sistemas-Embarcados
+# EA801 - Laboratorio Projetos-Sistemas Embarcados
 Repositório destinado para os projetos da disciplina Laboratório Projetos Sistemas Embarcados da Faculdade de Engenharia Elétrica e de Computação (FEEC) - Unicamp
